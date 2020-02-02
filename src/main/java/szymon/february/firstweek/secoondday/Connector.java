@@ -23,8 +23,6 @@ public class Connector {
         return requestResult;
     }
 
-//    public static void getHoroscopeText(String pageAsText){
-//        Pattern pattern = Pattern.compile()
-//    }
+
 
 }
